@@ -1,0 +1,25 @@
+body{
+	background-image: url("Nairobi.jpg");
+	text-align: center; 
+}
+
+#Top {
+	margin-top: 100px;
+}
+
+#Quora{
+	color: #B80000;
+	font-weight: bolder; 
+	font-size: 50px;
+	font-family: Lucida Console;
+}
+
+p{
+	font-size: 25px;
+	padding: 0px;
+}
+
+#About{
+	color: #C0C0C0;
+    font-size: 15px ;
+}
