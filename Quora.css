@@ -14,12 +14,20 @@ body{
 	font-family: Lucida Console;
 }
 
-p{
+#Answer{
 	font-size: 25px;
-	padding: 0px;
+	padding-top: 0px;
 }
 
 #About{
 	color: #C0C0C0;
     font-size: 15px ;
+    padding: 0px 55px 0px 55px;
+}
+.card-action{
+	float: left;
+}
+
+.card-title{
+	float: right;
 }
